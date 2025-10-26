@@ -4,25 +4,36 @@ pattern shapes refer to specific arrangements of characters, numbers, or symbols
 ## Rectangle
 given two numbers , rows and columns the result must be a rectangle with the specific dimentions.
 
-```
-        cols
-    
-    **********
-    **********  rows
-    ********** 
-
+```    
+    ****************
+    ****************
+    ****************
+    ****************
+    ****************
 
 ```
 
 ## Hollow Rectangle
 it is a visual pattern that draws only the outline of a rectangle based on tow dimentions.
 
+```        
+    *********************
+    *                   *
+    *                   *   
+    *                   *
+    *********************
 ```
-        cols 
-    *********************
-    *                   *
-    *                   *   rows
-    *                   *
-    *********************
 
+## Half Pyramid
+it is a pattern shaped like a right-angled triangle.
+
+```
+    *
+    **
+    ***
+    ****
+    *****
+    ******
+    *******
+    ********
 ```

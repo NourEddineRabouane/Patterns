@@ -14,3 +14,15 @@ given two numbers , rows and columns the result must be a rectangle with the spe
 
 ```
 
+## Hollow Rectangle
+it is a visual pattern that draws only the outline of a rectangle based on tow dimentions.
+
+```
+        cols 
+    *********************
+    *                   *
+    *                   *   rows
+    *                   *
+    *********************
+
+```

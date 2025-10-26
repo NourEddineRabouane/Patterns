@@ -36,4 +36,19 @@ it is a pattern shaped like a right-angled triangle.
     ******
     *******
     ********
+
+```
+## Inverted Half Pyramid
+
+```
+    *********
+    ********
+    *******
+    ******
+    *****
+    ****
+    ***
+    **
+    *
+
 ```

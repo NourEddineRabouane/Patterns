@@ -52,3 +52,16 @@ it is a pattern shaped like a right-angled triangle.
     *
 
 ```
+
+
+## Rhombus
+given a side size the output is a Rhombus.
+
+```
+    *
+   ***
+  *****
+   ***
+    *
+
+```

@@ -65,3 +65,18 @@ given a side size the output is a Rhombus.
     *
 
 ```
+
+## X Pattern
+given a number the output is a big x `(ex: for number = 4)`
+
+```
+
+      *     *
+       *   *
+        * *
+         *
+        * *
+       *   *
+      *     *
+
+```

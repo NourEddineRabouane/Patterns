@@ -82,3 +82,21 @@ Creates an X-shaped pattern where the arms extend diagonally from center. `(ex: 
       *     *
 
 ```
+
+## Cube
+Creates a solid cube with specific dimention. `(ex: for number = 5)`
+>**note:** I want to mention that I've used yellow color to change text color in console [my code](https://github.com/NourEddineRabouane/Patterns/blob/master/Cube.java).
+> I recommand checking the full list of ANSI color codes for more customization options [here](https://www.geeksforgeeks.org/java/how-to-print-colored-text-in-java-console/)
+
+```
+
+          *  *  *  *  * 
+       *  *  *  *  *  * 
+    *  *  *  *  *  *  * 
+    *  *  *  *  *  *  * 
+    *  *  *  *  *  *  * 
+    *  *  *  *  *  * 
+    *  *  *  *  * 
+    *  *  *  * 
+
+```

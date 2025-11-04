@@ -1,4 +1,4 @@
-package patterns;
+package src;
 
 import java.util.Scanner;
 
@@ -27,5 +27,7 @@ public class Triangle1 {
 
             System.out.println();
         }
+
+        scanner.close();
     }
 }

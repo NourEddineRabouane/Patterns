@@ -111,3 +111,14 @@ The logic for it is that each row n prints the number n a total of n times.  `(e
     5 5 5 5 5
 
 ```
+## [Sequential Number Triangle](https://github.com/NourEddineRabouane/Patterns/blob/master/Triangle2.java)
+The logic for this one is that each row n prints all the numbers sequentially from 1 up to the number of the row. `(ex: for number = 5)`
+```
+
+    1
+    1 2
+    1 2 3
+    1 2 3 4
+    1 2 3 4 5
+
+```

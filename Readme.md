@@ -122,3 +122,21 @@ The logic for this one is that each row n prints all the numbers sequentially fr
     1 2 3 4 5
 
 ```
+
+## [Number Kite Pattern](https://github.com/NourEddineRabouane/Patterns/blob/master/src/NumberKitePattern.java)
+An increasing number trinagle that grows to its peak and then decreases.`(ex: for number=6)`
+
+```
+    1
+    1 2
+    1 2 3
+    1 2 3 4
+    1 2 3 4 5
+    1 2 3 4 5 6
+    1 2 3 4 5
+    1 2 3 4
+    1 2 3
+    1 2
+    1
+
+```

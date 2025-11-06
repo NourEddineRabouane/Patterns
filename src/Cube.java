@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Cube {
 
     // Define a color to print colored Strings
+    public static final String YELLOW = "\u001B[33m";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

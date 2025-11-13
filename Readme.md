@@ -140,3 +140,14 @@ An increasing number trinagle that grows to its peak and then decreases.`(ex: fo
     1
 
 ```
+
+## [Vertical Fill Number Pattern](https://github.com/NourEddineRabouane/Patterns/blob/master/src/Triangle3.java)
+Right-angled number triangle where the numbers are filled vertically down each column rather than horizontally. `(ex: for number=4)`
+
+```
+    1
+    2 5
+    3 6 8
+    4 7 9 10
+
+```
